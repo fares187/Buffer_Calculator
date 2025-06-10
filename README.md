@@ -1,7 +1,9 @@
 # Bufferfly
 # Chemical Compounds Viewer and Buffer calculator
 
-https://github.com/user-attachments/assets/82ab91d2-21e8-45ad-b402-39733d50eb7e
+
+
+https://github.com/user-attachments/assets/b794c34f-5112-4eaf-b308-fa98224e171c
 
 
 
