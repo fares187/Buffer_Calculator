@@ -33,5 +33,5 @@ A cross-platform application built with .NET MAUI and Blazor (maui blazor hybrid
 - **Chart.js** - drawing graphs
 
 ## contect and order 
-[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](santosmph45@outlook.com)
+[![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](https://santosmph45@outlook.com)
 
